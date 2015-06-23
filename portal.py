@@ -4,6 +4,8 @@
 # Game: Portal 2D
 # Aluno: Luciano Henrique Nunes de Almeida
 # Matrícula: 11/0063392
+# Aluno: Guilherme Willer
+# Matricula: 
 ###
 
 from FGAme import *
