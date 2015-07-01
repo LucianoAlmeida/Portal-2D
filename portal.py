@@ -5,7 +5,7 @@ Game: Portal 2D
 Semestre: 1/2015
 
 Alunos: Guilherme Willer Dias Araujo          13/0045080
-        Lucoiano Henrique Nunes de Almeida    11/0063392       
+        Luciano Henrique Nunes de Almeida     11/0063392       
 '''
 from FGAme import *
 
